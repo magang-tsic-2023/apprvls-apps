@@ -1,0 +1,19 @@
+{
+    "model_name": "Document Api",
+    "additionals": ["copyWith", "json"],
+    "style": "json_serializable",
+    "properties": [
+      { "name": "id", "type": "int?" },
+      { "name": "name", "type": "String?" },
+      { "name": "url", "type": "String?" },
+      { "name": "createdByName", "type": "String?" },
+      { "name": "createdAt", "type": "String?" },
+      { "name": "updatedAt", "type": "String?" },
+      { "name": "admin1Name", "type": "String?" },
+      { "name": "admin1Approve", "type": "int?" },
+      { "name": "admin2Name", "type": "String?" },
+      { "name": "admin2Approve", "type": "int?" },
+      { "name": "admin3Name", "type": "String?" },
+      { "name": "admin3Approve", "type": "int?" }
+    ]
+  }

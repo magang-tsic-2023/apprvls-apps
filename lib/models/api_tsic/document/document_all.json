@@ -1,0 +1,38 @@
+{
+    "total": 7,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": "56669f59-da8f-4165-8c44-a896e2953a03",
+            "no": 6,
+            "date": "2023-02-08T13:04:10.993Z",
+            "name": "contoh 2",
+            "url": "download.pdf",
+            "type": 1,
+            "status": "0",
+            "created_by": "843438ee-69cb-493f-8812-71f0c7462f2f",
+            "updated_by": "843438ee-69cb-493f-8812-71f0c7462f2f",
+            "created_at": "2023-02-08T13:04:10.993Z",
+            "updated_at": "2023-02-08T13:04:10.993Z",
+            "approvalsList": [
+                {
+                    "id": "8eb0d7a4-d169-4948-b6ef-5e76d1143f04",
+                    "status": 1,
+                    "level": 1,
+                    "note": "-",
+                    "created_at": "2023-02-08T13:04:10.860Z",
+                    "updated_at": "2023-02-08T13:04:10.860Z"
+                },
+                {
+                    "id": "f3a05d1f-e46a-4168-8ea0-cc9fd4659303",
+                    "status": 1,
+                    "level": 2,
+                    "note": "-",
+                    "created_at": "2023-02-08T13:04:10.860Z",
+                    "updated_at": "2023-02-08T13:04:10.860Z"
+                }
+            ]
+        }
+    ]
+}

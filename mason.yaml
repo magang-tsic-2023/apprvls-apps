@@ -1,0 +1,4 @@
+bricks:
+  hello: 0.1.0+1
+  app_ui: ^0.0.4
+  api_service: ^0.1.0+1

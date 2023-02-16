@@ -1,0 +1,23 @@
+{
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6ImFjY2VzcyJ9.eyJpYXQiOjE2NzU4ODk0MTgsImV4cCI6MTY3NTk3NTgxOCwiYXVkIjoiaHR0cHM6Ly95b3VyZG9tYWluLmNvbSIsInN1YiI6Ijg0MzQzOGVlLTY5Y2ItNDkzZi04ODEyLTcxZjBjNzQ2MmYyZiIsImp0aSI6IjM1OGZkN2Y1LTU0MzAtNGQ0YS04ZGI0LTUyOWViYTAwN2M4MSJ9.cr6fi9ZtY7H7IDy5PR4Ow5gcoIzQ3lXryEMVIhPLrPk",
+    "authentication": {
+        "strategy": "local",
+        "payload": {
+            "iat": 1675889418,
+            "exp": 1675975818,
+            "aud": "https://yourdomain.com",
+            "sub": "843438ee-69cb-493f-8812-71f0c7462f2f",
+            "jti": "358fd7f5-5430-4d4a-8db4-529eba007c81"
+        }
+    },
+    "user": {
+        "id": "843438ee-69cb-493f-8812-71f0c7462f2f",
+        "full_name": "Super Admin",
+        "email": "admin@local.local",
+        "created_at": "2023-02-08T06:50:29.405Z",
+        "updated_at": "2023-02-08T06:50:29.405Z",
+        "roles": [
+            0
+        ]
+    }
+}

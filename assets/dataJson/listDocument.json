@@ -1,0 +1,17 @@
+{
+"status":"success",
+"listDocument":[
+    {
+        "name": "Dokument 1",
+        "url": "https://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+        "name": "Dokument 2",
+        "url": "https://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+        "name": "Dokument 3",
+        "url": "https://www.africau.edu/images/default/sample.pdf"
+    }
+]
+}
