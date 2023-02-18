@@ -1,6 +1,6 @@
 class Constants {
   static const String mongoDBUrl =
-      'mongodb+srv://triyonoflutter:triyonodb123flutter@flutter-app-db.sx0jokw.mongodb.net/laporanDb?retryWrites=true&w=majority';
+      'mongodb+srv://m4nSal:m4nsal__g3Ni0@prototipe2-app-db.dddxvon.mongodb.net/laporanDb?retryWrites=true&w=majority';
   static const String mongoCollectionUser = 'users';
   static const String mongoCollectionDocument = 'document';
 
@@ -24,7 +24,7 @@ class Constants {
   static const String reject = 'reject';
 
   // server socket
-  static const String serverIo = 'https://royal-famous-eustoma.glitch.me/';
+  static const String serverIo = 'https://ritzy-silly-paddleboat.glitch.me';
   static const String msgDokbaru = 'dokumenBaruAndroid';
   static const String msgAdmin1ApproveAndroid = 'admin1ApproveAndroid';
   static const String msgHasilApproveAndroid = 'hasilApproveAndroid';
